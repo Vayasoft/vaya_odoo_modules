@@ -21,6 +21,9 @@
             "vs_sticky_notes/static/src/xml/vs_sticky_note_templates.xml"
         ]
     },
+    'images': [
+        'static/src/description/banner.jpg',
+    ],
     "installable": True,
     "auto_install": False
 }
