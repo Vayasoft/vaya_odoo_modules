@@ -22,7 +22,7 @@
         ]
     },
     'images': [
-        'static/src/description/banner.jpg',
+        'static/description/banner.jpg',
     ],
     "installable": True,
     "auto_install": False
